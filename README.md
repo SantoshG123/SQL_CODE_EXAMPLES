@@ -1,1 +1,1 @@
-Examples of creating different concepts of SQL queries consisting of Create procedures, SELECT statements, JOINS, FUNCTIONS, ORDER/GROUP BY, etc. (Self-Studied under mother guidance and improved additional SQL coding skills in an internship in Cerebra Consulting Inc.)
+Examples of creating different concepts of SQL queries consisting of Create procedures, SELECT statements, JOINS, FUNCTIONS, ORDER/GROUP BY, etc. 
